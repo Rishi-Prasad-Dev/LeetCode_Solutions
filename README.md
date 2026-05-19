@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0056-merge-intervals](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,4 +21,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
