@@ -11,7 +11,7 @@ public:
         mp['M']=1000;
         int sum=0;
         for(int i=0;i<s.length();i++){
-            if(mp[s[i]]<mp[s[i+1]]){
+            if(i+1<s.length() && mp[s[i]]<mp[s[i+1]]){
                 sum-=mp[s[i]];
             }
             else{
