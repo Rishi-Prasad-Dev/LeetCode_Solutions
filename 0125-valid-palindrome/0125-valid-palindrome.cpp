@@ -7,11 +7,13 @@ public:
                 st+=tolower(ch);
             }
         }
-        string temp=st;
-        reverse(temp.begin(),temp.end());
-        if(temp==st){
-            return true;
+        int j=st.length()-1;
+        for(int i=0;i<st.length();i++){
+            if(st[i]!=st[j])
+                return false;
+            else
+                j--;
         }
-        return false;
+        return true;
     }
 };
