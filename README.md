@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -97,10 +98,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
