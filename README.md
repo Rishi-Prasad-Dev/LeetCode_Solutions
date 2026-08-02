@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0414-third-maximum-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0414-third-maximum-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
