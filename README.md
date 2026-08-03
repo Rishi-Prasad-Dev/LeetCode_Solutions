@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -149,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
