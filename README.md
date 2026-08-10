@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0344-reverse-string/) | Easy |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0189-rotate-array](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0268-missing-number/) | Easy |
