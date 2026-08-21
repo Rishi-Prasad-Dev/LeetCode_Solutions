@@ -7,16 +7,18 @@ class Solution {
 
             char ch=magazine.charAt(i);
             magazineFreq.put(ch,magazineFreq.getOrDefault(ch,0)+1);
+            
         }
 
         for(int i=0;i<ransomNote.length();i++){
 
             char ch=ransomNote.charAt(i);
+            int count=magazineFreq.getOrDefault(ch,0);
 
-            if(!magazineFreq.containsKey(ch) || magazineFreq.get(ch)==0){
+            if(count==0){
                 return false;
             }
-            magazineFreq.put(ch,magazineFreq.get(ch)-1);
+            magazineFreq.put(ch,count-1);
         }
         return true;
     }
