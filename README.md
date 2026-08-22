@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
