@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3731-find-missing-elements](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0645-set-mismatch](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3731-find-missing-elements](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
@@ -267,4 +270,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0075-sort-colors/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
