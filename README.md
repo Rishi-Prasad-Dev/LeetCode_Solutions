@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
