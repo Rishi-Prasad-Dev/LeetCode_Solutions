@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
