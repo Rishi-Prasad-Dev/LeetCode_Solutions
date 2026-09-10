@@ -9,8 +9,11 @@ class Solution {
             char sChar = s.charAt(i);
             char tChar = t.charAt(i);
 
-            if (sMap.containsKey(sChar) && sMap.get(sChar) != tChar ||
-                    tMap.containsKey(tChar) && tMap.get(tChar) != sChar) {
+            Character sValue = sMap.get(sChar);
+            Character tValue = tMap.get(tChar);
+
+            if ((sValue != null && sValue != tChar) ||
+                (tValue != null && tValue != sChar)) {
                 return false;
             }
             sMap.put(sChar, tChar);
