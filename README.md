@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,4 +304,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0181-employees-earning-more-than-their-managers](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0183-customers-who-never-order/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
