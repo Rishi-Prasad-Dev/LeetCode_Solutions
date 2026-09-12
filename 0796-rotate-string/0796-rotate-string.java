@@ -5,9 +5,6 @@ class Solution {
             return false;
         }
 
-        if ((s + s).contains(goal)) {
-            return true;
-        }
-        return false;
+        return (s + s).contains(goal);
     }
 }
