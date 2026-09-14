@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3870-count-commas-in-range/) | Easy |
@@ -313,4 +314,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
