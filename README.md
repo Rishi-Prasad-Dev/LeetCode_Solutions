@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0181-employees-earning-more-than-their-managers](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0183-customers-who-never-order/) | Easy |
+| [0620-not-boring-movies](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0620-not-boring-movies/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
