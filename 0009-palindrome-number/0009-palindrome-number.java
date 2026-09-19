@@ -9,9 +9,6 @@ class Solution {
             rev = rev * 10 + digit;
             temp /= 10;
         }
-        if (rev == x) {
-            return true;
-        }
-        return false;
+        return rev==x;
     }
 }
