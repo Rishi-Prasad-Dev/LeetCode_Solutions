@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0263-ugly-number](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
