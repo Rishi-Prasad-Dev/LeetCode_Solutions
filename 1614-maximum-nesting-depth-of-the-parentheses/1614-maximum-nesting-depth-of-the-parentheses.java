@@ -10,10 +10,10 @@ class Solution {
 
             if (ch == '(') {
                 counter++;
+                maxCount = Math.max(counter, maxCount);
             } else if (ch == ')') {
                 counter--;
             }
-            maxCount = Math.max(counter, maxCount);
         }
         return maxCount;
     }
