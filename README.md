@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -338,4 +340,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
