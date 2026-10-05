@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0735-asteroid-collision](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Simulation
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0796-rotate-string](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0796-rotate-string/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Pigeonhole Principle
