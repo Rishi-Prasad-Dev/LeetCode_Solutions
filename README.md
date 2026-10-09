@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -352,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
