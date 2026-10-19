@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/0704-binary-search/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
