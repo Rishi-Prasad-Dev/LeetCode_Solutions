@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0836-rectangle-overlap](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Project-Unknown-Creator/LeetCode_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishi-Prasad-Dev/LeetCode_Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Trie
