@@ -1,19 +1,21 @@
 class Solution {
     public String[] createGrid(int m, int n) {
 
+        char[][] grid = new char[m][n];
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i == 0 || j == n - 1) {
+                    grid[i][j] = '.';
+                } else {
+                    grid[i][j] = '#';
+                }
+            }
+        }
         String[] ans = new String[m];
 
         for (int i = 0; i < m; i++) {
-            StringBuilder str = new StringBuilder();
-
-            for (int j = 0; j < n; j++) {
-                if (j == n - 1 || i == 0) {
-                    str.append(".");
-                } else {
-                    str.append("#");
-                }
-            }
-            ans[i] = str.toString();
+            ans[i] = String.valueOf(grid[i]);
         }
         return ans;
     }
